@@ -22,7 +22,7 @@ color:
     - '#fec107'
     - '#ff6600'
     - '#000000'
-  brandStrength: 0.9231876914855093
+  brandStrength: 0.625
   lightness: 0.2188181143719703
   saturation: 0.25
   rhythmicContrast: 0.6040037747006863
