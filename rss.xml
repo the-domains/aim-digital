@@ -4,7 +4,7 @@
         <description><![CDATA[AIM Digital]]></description>
         <link>https://thegrid.ai/aim-digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 07:41:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 07:41:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aim-digital/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Four hundred miles with Tesla's autopilot forced me to trust the machine]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/aim-digital/this-is-a-test/index.html</link>
             <guid isPermaLink="false">f8826e25-414f-4675-ad6c-53e3fd150f89</guid>
             <pubDate>Wed, 25 May 2016 07:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four hundred miles with Tesla’s autopilot forced me to trust the machine]]></title>
-            <description><![CDATA[<article><h1>Four hundred miles with Tesla’s autopilot forced me to trust the machine</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/554b51f2-5f56-468a-9bca-926b8f42cf14.jpg"></article>]]></description>
-            <link>https://thegrid.ai/aim-digital/four-hundred-miles-with-teslas-autopilot-forced-me-to-trust/index.html</link>
-            <guid isPermaLink="false">6936489e-b05a-4ca2-9398-3d0071d1d83c</guid>
-            <pubDate>Wed, 25 May 2016 07:28:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
